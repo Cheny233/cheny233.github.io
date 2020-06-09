@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://cheny.cc</id>
+    <title>Cheny</title>
+    <updated>2020-06-09T13:43:44.406Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://cheny.cc"/>
+    <link rel="self" href="https://cheny.cc/atom.xml"/>
+    <subtitle>明天的事，交给明天的我</subtitle>
+    <logo>https://cheny.cc/images/avatar.png</logo>
+    <icon>https://cheny.cc/favicon.ico</icon>
+    <rights>All rights reserved 2020, Cheny</rights>
+    <entry>
+        <title type="html"><![CDATA[写Minecraft-AFK时踩过的那些坑]]></title>
+        <id>https://cheny.cc/post/Minecraft-AFK-difficulties/</id>
+        <link href="https://cheny.cc/post/Minecraft-AFK-difficulties/">
+        </link>
+        <updated>2020-04-09T05:06:08.000Z</updated>
+        <summary type="html"><![CDATA[<p>其实在写Minecraft-AFK之前我是没有接触过WindowsAPI的，也是在写这个程序时才了解到。不得不说自学的道路有些坎坷，踩了无数的坑。在此记录一下，一来自己忘记时可以翻翻博客，二来如果有人有疑问，也有和我一样踩了类似的坑，我这里也可以给他一些启发。由于对于WindowsAPI完全不了解，这是在里面选取对自己有用的东西，所以有些讲解可能不准确，如果有人能够指出来，我在这里表示感谢。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>其实在写Minecraft-AFK之前我是没有接触过WindowsAPI的，也是在写这个程序时才了解到。不得不说自学的道路有些坎坷，踩了无数的坑。在此记录一下，一来自己忘记时可以翻翻博客，二来如果有人有疑问，也有和我一样踩了类似的坑，我这里也可以给他一些启发。由于对于WindowsAPI完全不了解，这是在里面选取对自己有用的东西，所以有些讲解可能不准确，如果有人能够指出来，我在这里表示感谢。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minecraft-AFK项目的说明]]></title>
+        <id>https://cheny.cc/post/Minecraft-AFK/</id>
+        <link href="https://cheny.cc/post/Minecraft-AFK/">
+        </link>
+        <updated>2020-04-08T15:09:32.000Z</updated>
+        <summary type="html"><![CDATA[<p>这个寒假（好长的寒假），我为自己写的一个Minecraft后台挂机程序，起初就是这么命名的，后来改成了Minecraft-AFK，觉得这样好听一点，也简短一点。这个程序也在不断的完善，虽然没什么人关注，但闲来敲敲代码也是我喜欢做的事情，我觉得我能一直维护下去。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>这个寒假（好长的寒假），我为自己写的一个Minecraft后台挂机程序，起初就是这么命名的，后来改成了Minecraft-AFK，觉得这样好听一点，也简短一点。这个程序也在不断的完善，虽然没什么人关注，但闲来敲敲代码也是我喜欢做的事情，我觉得我能一直维护下去。</p>
+]]></content>
+    </entry>
+</feed>
