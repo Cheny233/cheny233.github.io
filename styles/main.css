@@ -636,9 +636,6 @@ pre > span.copy-code:hover {
   .post-title {
     font-size: 22px !important;
   }
-  .pc-show {
-    display: none;
-  }
 }
 @media (min-width: 992px) {
   .full-image {
@@ -1662,7 +1659,6 @@ pre > span.copy-code:hover {
   background-color: #f6f8fa;
 }
 .next-md-body img {
-  background-color: #fff;
   box-sizing: content-box;
   max-width: 100%;
 }
