@@ -1295,9 +1295,6 @@ pre > span.copy-code:hover {
   font-size: 2em;
   margin: 0.67em 0;
 }
-.next-md-body img {
-  border-style: none;
-}
 .next-md-body code,
 .next-md-body kbd,
 .next-md-body pre {
@@ -1659,8 +1656,10 @@ pre > span.copy-code:hover {
   background-color: #f6f8fa;
 }
 .next-md-body img {
+  background-color: transparent;
   box-sizing: content-box;
   max-width: 100%;
+  border-style: none;
 }
 .next-md-body img[align=right] {
   padding-left: 20px;
